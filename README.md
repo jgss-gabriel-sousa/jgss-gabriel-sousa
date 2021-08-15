@@ -34,3 +34,6 @@ Feel free to contribute or use my projects 👍
   <a href="mailto:jgss.gabriel.sousa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <br/><br/>
+
+
+![Snake animation](https://github.com/JGSS-GabrielSousa/JGSS-GabrielSousa/blob/output/github-contribution-grid-snake.svg)
