@@ -9,8 +9,8 @@ Feel free to contribute or use my projects 👍
 
 ## Stats 🧐
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JGSS-GabrielSousa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGSS-GabrielSousa&langs_count=8&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JGSS-GabrielSousa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGSS-GabrielSousa&langs_count=10&layout=compact&theme=blue-green&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/JGSS-GabrielSousa/JGSS-GabrielSousa/blob/output/github-contribution-grid-snake.svg)
