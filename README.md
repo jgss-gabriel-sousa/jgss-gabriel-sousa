@@ -10,9 +10,9 @@ Sinta-se livre para contribuir ou usar meus projetos 👍
 <br/>
 
 EN:<br/>
-I’m Gabriel, and currently learning JavaScript and TypeScript, along with the React library. I have good experience with C, C++ and Python, but I'm always practicing and evolving with new projects and challenges.
+I am Gabriel and currently I'm studying JavaScript and TypeScript, along with the React library. I have good experience with C, C++ and Python, but I'm always practicing and evolving with new projects and challenges.
 
-The tech area as a whole, is my passion, but the specific areas that more arouse my interest are Front-End Web Development and Game Development.
+The technology area as a whole is my passion, but the specific areas that spark my greatest interest are Front-End Web Development and Game Development.
 
 Feel free to contribute or use my projects 👍
 
