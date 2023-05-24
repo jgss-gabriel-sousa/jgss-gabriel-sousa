@@ -1,20 +1,11 @@
 ## Olá/Hi there 👋
 
 PT:<br/>
-Eu sou Gabriel e atualmente estou estudando TypeScript, junto com a biblioteca React. Tenho boa experiência com C, C++, JavaScript e Python, mas sempre estou praticando e evoluindo com novos projetos e desafios.
+Eu sou Gabriel. Tenho aqui neste perfil meus principais projetos que estou estudando, praticando e evoluindo.
 
-A área de tecnologia como um todo, é minha paixão, mas as áreas específicas que me despertam maior interesse são Desenvolvimento Web Front-End e Desenvolvimento de Jogos.
+A área de tecnologia como um todo, é minha paixão, então tenho repositórios bem diversos, mas as áreas específicas que me despertam maior interesse são Desenvolvimento Web e Desenvolvimento de Jogos.
 
 Sinta-se livre para contribuir ou usar meus projetos 👍
-
-<br/>
-
-EN:<br/>
-I am Gabriel and currently I'm studying TypeScript, along with the React library. I have good experience with C, C++, JavaScript and Python, but I'm always practicing and evolving with new projects and challenges.
-
-The technology area as a whole is my passion, but the specific areas that spark my greatest interest are Front-End Web Development and Game Development.
-
-Feel free to contribute or use my projects 👍
 
 <br/>
 
