@@ -1,6 +1,5 @@
-## Olá/Hi there 👋
+## Olá 👋
 
-PT:<br/>
 Eu sou Gabriel. Tenho aqui neste perfil meus principais projetos que estou estudando, praticando e evoluindo.
 
 A área de tecnologia como um todo, é minha paixão, então tenho repositórios bem diversos, mas as áreas específicas que me despertam maior interesse são Desenvolvimento Web e Desenvolvimento de Jogos.
