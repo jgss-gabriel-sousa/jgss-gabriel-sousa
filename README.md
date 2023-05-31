@@ -52,9 +52,10 @@ Sinta-se livre para contribuir ou usar meus projetos 👍
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232a?&style=flat&logo=react&logoColor=%2361DAFB">
+  <img align="center" alt="Next JS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white">
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-  <img align="center" alt="Next JS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white">
+  
   
   #### Back-End
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
