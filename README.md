@@ -17,7 +17,6 @@ Sinta-se livre para contribuir ou usar meus projetos 👍
   <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api?username=jgss-gabriel-sousa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgss-gabriel-sousa&langs_count=10&layout=compact&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="200em" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jgss-gabriel-sousa&theme=github-dark-blue&hide_border=true&border_radius=10&locale=en&date_format=&mode=weekly&properties=background"/>
-  <img height="200em" width="400" src="https://github.com/jgss-gabriel-sousa/jgss-gabriel-sousa/blob/output/github-contribution-grid-snake2.svg"/>
 </div>
 
 ## Techs 👨‍💻🚀
