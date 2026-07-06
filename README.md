@@ -50,6 +50,7 @@ Sinta-se livre para contribuir ou usar meus projetos 👍
   
   
   #### Back-End
+  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green">
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
   <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
