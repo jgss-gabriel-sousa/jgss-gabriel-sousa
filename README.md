@@ -12,13 +12,6 @@ Sinta-se livre para contribuir ou usar meus projetos 👍
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </div>
 
-## Stats :fire:
-<div align="center">
-  <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api?username=jgss-gabriel-sousa&show_icons=true&theme=blue-green&include_all_commits=true&hide_rank=true&count_private=true&locale=pt-br"/>
-  <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgss-gabriel-sousa&langs_count=10&layout=compact&theme=blue-green&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="200em" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jgss-gabriel-sousa&theme=github-dark-blue&hide_border=true&border_radius=10&locale=pt-br&date_format=&mode=weekly&properties=background"/>
-</div>
-
 ## Techs 👨‍💻🚀
 
 <div>
